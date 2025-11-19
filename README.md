@@ -113,7 +113,7 @@ After this, the validateForm function is called when the submit button is presse
       <Text style={styles.error}>{passwordError}</Text> 
     </View>
   );
-}
+
 
 export default MyForm;
 
